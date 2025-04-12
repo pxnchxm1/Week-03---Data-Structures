@@ -1,0 +1,5 @@
+Hello, world!
+This is a sample file.
+It contains multiple lines of text.
+UTF-8 encoding supports symbols like ©, €, ₹, and emojis 😊🚀
+Have a nice day!
